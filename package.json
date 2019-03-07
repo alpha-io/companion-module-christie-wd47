@@ -1,0 +1,19 @@
+{
+	"name": "christie-wd4-7",
+	"version": "1.0.0",
+	"legacy": ["christiewd47"],
+	"api_version": "1.0.0",
+	"keywords": [
+		"Media Server"
+	],
+	"manufacturer": "Christie Digital System",
+	"product": "Widget Designer 4.7",
+	"shortname": "WD47",
+	"description": "Christie / Coolux Widget Designer",
+	"main": "christiewd4.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Daniel Kaminski <daniel@dk-production.de>",
+	"license": "MIT"
+}
